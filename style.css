@@ -1,0 +1,33 @@
+body {
+    font-family: Popins, sans-serif;
+    background-color: whitesmoke;
+}
+
+header {
+    border: 3px solid black;
+    color: aliceblue;
+    background-color: darkorange;
+}
+
+#biodata {
+    text-align: left;
+}
+
+footer {
+    background-color: darkorange;
+    color: aliceblue;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+#selected-tab {
+    background-color: white;
+}
